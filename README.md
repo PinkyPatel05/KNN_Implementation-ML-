@@ -40,15 +40,19 @@ Install the required packages using:
 pip install numpy pandas scikit-learn imbalanced-learn scipy
 
 ## How to Run
+Step by Step Guide:
 
 1. Make sure all required datasets are present in the `data/` directory:
    - `hayes_roth.csv`
    - `car_evaluation.csv`
    - `breast_cancer.csv`
 
-2. Run the main script:
+2. Create virtual environment - (I have alredy created)
+   python3 -m venv venv
+   source venv/bin/activate
 
-python3 main.py
+3. Run the main script:
+   python3 main.py
 
 
 The program will:
