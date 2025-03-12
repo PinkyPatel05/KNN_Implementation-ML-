@@ -4,7 +4,7 @@ This project implements the K-Nearest Neighbors (KNN) algorithm from scratch, al
 
 ## File Structure
 
-100225188_ML_ProgramingAssignment/
+ML_KNN_Implementation/
 │
 ├── data/
 │   ├── hayes_roth.csv  --ayes-Roth Dataset
